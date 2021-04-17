@@ -1,0 +1,2 @@
+# Health-Management-system_repo
+HMS system is designed in python language, HMS software is only used for a particular client like Mehjabin, Sameer, Harry. This system validates a user name and gives 2 options to clients 1.Diet and 2. Exercise. for input records in the file, after that system, ask the client to continue the process or not otherwise HMS will provide Diet and Exercise report with time and date.
